@@ -112,8 +112,14 @@ Backend
 
 # ⚔️ 성능 개선
 ![성능](https://user-images.githubusercontent.com/110080748/199012733-59f6ced0-d12a-427a-b55f-f1052c48ca8c.PNG)
+
+
 메인 헤더 이미지 자체가 너무 커서 Time to interactive 가 너무큼
+
+
 ![헤더 이미지 개선 후](https://user-images.githubusercontent.com/110080748/199012875-aa7f817e-4391-4dba-8765-57fea527ed28.PNG)
+
+
 이미지 개선 후 성능 향상
 
 
