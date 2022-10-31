@@ -72,8 +72,7 @@ https://on-purple.com/
 <h3>💜 게시글을 등록하여 추천 맛집이나 데이트 코스 등 커뮤니티가 가능함. 💜</h3>
  
  
- 
- 
+
 
 ![댓글창](https://user-images.githubusercontent.com/109732299/198251903-5a717ca8-7172-40e2-a48e-e03c7b8c948b.png)
 
@@ -109,6 +108,13 @@ Backend
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> 
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> 
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> 
+
+
+# ⚔️ 성능 개선
+![성능](https://user-images.githubusercontent.com/110080748/199012733-59f6ced0-d12a-427a-b55f-f1052c48ca8c.PNG)
+메인 헤더 이미지 자체가 너무 커서 Time to interactive 가 너무큼
+![헤더 이미지 개선 후](https://user-images.githubusercontent.com/110080748/199012875-aa7f817e-4391-4dba-8765-57fea527ed28.PNG)
+이미지 개선 후 성능 향상
 
 
 
