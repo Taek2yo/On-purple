@@ -26,23 +26,27 @@ https://on-purple.com/
 # 메인 페이지
 ![main](https://user-images.githubusercontent.com/109732299/198250056-8c37948f-83cb-42f0-84c7-9227a72b6849.png)
 
-<h3> 상대 프로필 확인 후 좋아요 기능 </h3>
+<h3>💜 상대 프로필을 확인하고 좋아요를 보낼 수 있음 💜</h3>
 
 
 # 마이 페이지
 ![mypage](https://user-images.githubusercontent.com/109732299/198250420-17f5afff-f642-4e66-a145-51ee70765484.png)
 
-<h3> 나와 매칭된 사람을 확인할 수 있고, 기본 정보 수정 가능 </h3>
+<h3>💜 나와 매칭된 사람을 확인할 수 있고, 내정보를 수정할  💜</h3>
 
 # 채팅
 ![chatList](https://user-images.githubusercontent.com/109732299/198250525-47f61288-21f2-4092-9ab8-a32401d09ffc.png)
 
-<h3> 생성된 채팅방 목록을 확인 할 수 있음 </h3>
 
+
+<h3>💜 생성된 채팅방 목록을 확인 할 수 있음 💜</h3>
 
 ![chatRoom](https://user-images.githubusercontent.com/109732299/198250583-77a1ce2b-ecbc-4ce7-91ce-5436499645d1.png)
 
-<h3> 1:1 텍스트 채팅 가능 </h3>
+![채팅](https://user-images.githubusercontent.com/110080748/198822018-901bbb3f-b05b-491e-b25a-c48fb200e35b.gif)
+
+
+<h3>💜 선택한 채팅방으로 들어가서 대화를 나눌 수 있음 💜</h3>
 
 
 # 화상채팅
@@ -66,20 +70,21 @@ https://on-purple.com/
  ![포스트 상세](https://user-images.githubusercontent.com/109732299/198251834-73ec00d3-3bd4-417a-acc8-c44b2d544679.png)
 
 
-
  
  
 <h3>💜 게시글을 등록하여 추천 맛집이나 데이트 코스 등 커뮤니티가 가능함. 💜</h3>
  
- 
+
 
 
 ![댓글창](https://user-images.githubusercontent.com/109732299/198251903-5a717ca8-7172-40e2-a48e-e03c7b8c948b.png)
 
 
 
-
 <h3>💜 댓글 기능으로 커뮤니티 활성화 💜</h3>
+
+![검색](https://user-images.githubusercontent.com/110080748/198822105-aa4934dd-ecfc-4983-b5fc-4f112309b4a9.gif)
+<h3>💜 제목에 포함된 키워드를 기준으로 검색가능 💜</h3>
 
 
 # 사용자 가이드 화면
@@ -108,19 +113,6 @@ Backend
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> 
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> 
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> 
-
-
-# ⚔️ 성능 개선
-![성능](https://user-images.githubusercontent.com/110080748/199012733-59f6ced0-d12a-427a-b55f-f1052c48ca8c.PNG)
-
-
-메인 헤더 이미지 자체가 너무 커서 Time to interactive 가 너무큼
-
-
-![헤더 이미지 개선 후](https://user-images.githubusercontent.com/110080748/199012875-aa7f817e-4391-4dba-8765-57fea527ed28.PNG)
-
-
-이미지 개선 후 성능 향상
 
 
 
